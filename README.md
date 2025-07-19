@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone! 👋, I'm lostdev</h1>
-<h3 align="center">I'm a programmer/coder from Czech Republic.</h3>
+<h3 align="center">I'm a developer/programmer from Czech Republic.</h3>
 
 - 🌱 I’m currently learning **C#**
 
